@@ -2,8 +2,8 @@
 
 <h2>:zap: Projects</h2>
 
-- [eJPTv2 Cheatsheet/Notes](https://github.com/jmeliendrez/ejptv2)
 - AD Lab Setup
+- [eJPTv2 Cheatsheet/Notes](https://github.com/jmeliendrez/ejptv2)
 
 
 <h2>📺  YouTube Videos</h2>
