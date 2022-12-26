@@ -2,13 +2,14 @@
 
 <h2>:zap: Projects</h2>
 
-- AD Lab Setup
+- [Azure Basic Network Analysis Lab](https://github.com/jmeliendrez/azure-network-analysis) (🏗 Under Construction)
 - [eJPTv2 Cheatsheet/Notes](https://github.com/jmeliendrez/ejptv2)
 
 
 <h2>📺  YouTube Videos</h2>
 
 - [HackTheBox: Sequel Walkthrough](https://www.youtube.com/watch?v=BeTr4rG8Oig&ab_channel=JeremiahMeliendrez)
+- [Azure Basic Network Analysis Walkthrough]() (Coming Soon)
 
 
 <h2> 🤳  Connect with me:</h2>
