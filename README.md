@@ -1,18 +1,19 @@
-<h1>Hi, I'm Jerey! <br/> <a href="https://www.linkedin.com/in/jmeliendrez">Aspiring Cybersecurity Professional</a>, and <a href="https://www.youtube.com/channel/UCUmVCNwD9UT8YgL7qbnnNrA">YouTuber</a></h1>
+# Hi, I'm Jerey, an aspiring  <a href="https://www.linkedin.com/in/jmeliendrez">IT Professional</a>.
 
-<h2>:zap: Projects</h2>
+## :zap: Projects
+
 
 - [Azure Basic Network Analysis Lab](https://github.com/jmeliendrez/azure-network-analysis) (🏗 Under Construction)
 - [eJPTv2 Cheatsheet/Notes](https://github.com/jmeliendrez/ejptv2)
 
 
-<h2>📺  YouTube Videos</h2>
+## 📺  YouTube Videos
 
 - [HackTheBox: Sequel Walkthrough](https://www.youtube.com/watch?v=BeTr4rG8Oig&ab_channel=JeremiahMeliendrez)
 - [Azure Basic Network Analysis Walkthrough]() (Coming Soon)
 
 
-<h2> 🤳  Connect with me:</h2>
+## 🤳  Connect with me
 
 [<img align="left" alt="JeremiahMeliendrez | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JeremiahMeliendrez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
