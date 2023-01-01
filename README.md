@@ -10,6 +10,7 @@
 ## 📺  YouTube Videos
 
 - [HackTheBox: Sequel Walkthrough](https://www.youtube.com/watch?v=BeTr4rG8Oig&ab_channel=JeremiahMeliendrez)
+- [Azure Virtual Machine Setup](https://youtu.be/0YpwRYq-RAo)
 - [Azure Basic Network Analysis Walkthrough]() (Coming Soon)
 
 
