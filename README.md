@@ -1,5 +1,7 @@
 # Hi, I'm Jerey, an aspiring  <a href="https://www.linkedin.com/in/jmeliendrez">IT Professional</a>.
 
+Welcome to my Github! A little about me, I'm transitioning into Information Technology after doing plenty of work/study in social services (disability support and pastoral work). I'm working towards landing a technical role in IT and then work towards a career in cyber security. I am currently completing projects in the CourseCareers curriculum and studying for the eJPTv2 exam. Below are some projects that I have done/are working on.
+
 ## :zap: Projects
 
 
