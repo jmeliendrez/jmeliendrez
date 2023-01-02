@@ -5,7 +5,7 @@ Welcome to my Github! A little about me, I'm transitioning into Information Tech
 ## :zap: Projects
 
 
-- [Azure Basic Network Analysis Lab](https://github.com/jmeliendrez/azure-network-analysis) (🏗 Under Construction)
+- [Azure Basic Network Analysis Lab](https://github.com/jmeliendrez/azure-network-analysis)
 - [eJPTv2 Cheatsheet/Notes](https://github.com/jmeliendrez/ejptv2)
 
 
@@ -13,7 +13,7 @@ Welcome to my Github! A little about me, I'm transitioning into Information Tech
 
 - [HackTheBox: Sequel Walkthrough](https://www.youtube.com/watch?v=BeTr4rG8Oig&ab_channel=JeremiahMeliendrez)
 - [Azure Virtual Machine Setup](https://youtu.be/0YpwRYq-RAo)
-- [Azure Basic Network Analysis Walkthrough]() (Coming Soon)
+- [Azure Basic Network Analysis Walkthrough](https://youtu.be/FVvaHPj0ikc)
 
 
 ## 🤳  Connect with me
