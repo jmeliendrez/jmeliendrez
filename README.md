@@ -6,6 +6,7 @@ Welcome to my Github! A little about me, I'm transitioning into Information Tech
 
 
 - [Azure Basic Network Analysis Lab](https://github.com/jmeliendrez/azure-network-analysis)
+- [Active Directory Setup](https://github.com/jmeliendrez/azure-AD)
 - [Set up a Free VPN in Azure](https://github.com/jmeliendrez/free-vpn)
 - [eJPTv2 Cheatsheet/Notes](https://github.com/jmeliendrez/ejptv2)
 
@@ -13,6 +14,8 @@ Welcome to my Github! A little about me, I'm transitioning into Information Tech
 ## 📺  YouTube Videos
 
 - [HackTheBox: Sequel Walkthrough](https://www.youtube.com/watch?v=BeTr4rG8Oig&ab_channel=JeremiahMeliendrez)
+- [Setting Up Active Directory]()
+- [Connecting a PC to Active Directory Domain]()
 - [Azure Virtual Machine Setup](https://youtu.be/0YpwRYq-RAo)
 - [Azure Basic Network Analysis Walkthrough](https://youtu.be/FVvaHPj0ikc)
 
