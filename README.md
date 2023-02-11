@@ -11,7 +11,7 @@ Welcome to my Github! A little about me, I'm transitioning into Information Tech
 - [eJPTv2 Cheatsheet/Notes](https://github.com/jmeliendrez/ejptv2)
 - [Write Ups](https://github.com/jmeliendrez/Write-Ups)
 
-## Walkthroughs
+## 🚶 Walkthroughs
 
 - [Precious - Hack the Box](https://github.com/jmeliendrez/Write-Ups/tree/main/HTB/Precious)
 - [Pickle Rick - TryHackMe](https://github.com/jmeliendrez/Write-Ups/blob/main/THM/pickle_rick.md)
